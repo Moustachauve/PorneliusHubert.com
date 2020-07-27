@@ -1,5 +1,7 @@
-# PorneliusHubert.com
+# [PorneliusHubert.com](https://porneliushubert.com/)
 A website dedicated to the (fictional) original founder of Pornhub, Pornelius Hubert
+
+[![Pornelius Hubert's Logo](img/logo-git.png)](https://porneliushubert.com/)
 
 The goal of this project is to entertain. None of the information present can be considered as legitimate. 
 
